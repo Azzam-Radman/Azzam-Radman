@@ -1,98 +1,110 @@
-# 👋 Hi, I’m Azzam Radman  
-**Data Scientist | Industrial Engineer | Researcher**  
+<h1 align="center">👋 Hi, I'm Azzam Radman</h1>
 
-📍 Louisville, KY | 📧 [azzamradman.ie@gmail.com](mailto:azzamradman.ie@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/azzam-radman)  
+<p align="center">
+  <em>Data Scientist | AI Researcher | Industrial Engineer</em>  
+</p>
 
----
-
-## 🚀 **About Me**  
-I'm a **Data Scientist** and **Industrial Engineer** with dual master's degrees (MS in Data Science and MS in Industrial Engineering) and a passion for building data-driven solutions. My expertise spans **Machine Learning, Deep Learning, Reinforcement Learning, and Operations Research**, with applications in NLP, Computer Vision, and Production Optimization.  
-
-🔬 **Research Focus**: Bridging AI/ML with industrial systems to solve complex scheduling, optimization, and automation problems.  
-🏭 **Industry Experience**: Toyota, IBM, UPS.  
-
----
-
-## 🔥 **Featured Projects**  
-
-### **1. Deep Reinforcement Learning for Production Scheduling (IBM & University of Louisville)**  
-![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)  
-- Built a **discrete event simulation** model of IBM’s 56-cell server test environment and integrated it with a **Deep RL agent**.  
-- Achieved **optimal scheduling for 400 orders in under 10 seconds**, outperforming CPLEX (14+ hours).  
-- **Published at MSEC 2024** (NSF-funded project).  
-🔗 [Paper Link](#) | 🛠️ Python, TensorFlow, Gym, SimPy  
+<p align="center">
+  <a href="mailto:azzamradman1993@gmail.com"><img src="https://img.shields.io/badge/email-contact%20me-blue?style=flat&logo=gmail"></a>
+  <a href="https://www.linkedin.com/in/azzam-radman"><img src="https://img.shields.io/badge/LinkedIn-azzamradman-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/Azzam-Radman"><img src="https://img.shields.io/badge/GitHub-Azzam--Radman-black?style=flat&logo=github"></a>
+</p>
 
 ---
 
-### **2. Neural Arabic Singular-to-Plural Conversion (NLP Research)**  
-- Designed a **Transformer-based model** with **Character-BERT** for Arabic morphology.  
-- Published in **Natural Language Engineering (Cambridge Press)**.  
-🔗 [Paper Link](#) | 🛠️ PyTorch, Hugging Face  
+### 🔬 About Me
+
+I’m a data scientist with a passion for research and solving real-world problems with machine learning and optimization. I hold dual master’s degrees in **Data Science** and **Industrial Engineering**, and I work at the intersection of artificial intelligence, operations research, and simulation.
+
+- 💡 **Researcher** at the University of Louisville, working on an **NSF-funded** AI scheduling project with **IBM**, achieving 5000x speedups over classical methods.
+- 🚛 Former Industrial Engineering Intern at **Toyota** and **UPS**, where I automated forecasting, built simulation models in AnyLogic, and improved logistics processes.
+- 🔍 I'm interested in **Deep Reinforcement Learning**, **Computer Vision**, **Transformers**, and **AI for Smart Manufacturing**.
+- 📍 Currently based in **Louisville, KY, USA**.
 
 ---
 
-### **3. Toxic Phrase Detection in Arabic Tweets (ICICS 2022)**  
-- Developed a **span detection model** for identifying toxic content in social media.  
-- Applied adversarial training to improve robustness.  
-🔗 [Paper Link](#) | 🛠️ TensorFlow, NLP  
+### 🚀 Featured Projects
+
+#### 📌 Deep RL for Server Testing Optimization (IBM Project)
+> 🏢 NSF-funded collaboration with IBM and Northeastern University  
+> 🧠 Used Deep Reinforcement Learning for dynamic scheduling  
+> ⚙️ Outperformed CPLEX-based models (14 hours) in just 10 seconds  
+> 🎓 Published in the 2024 MSEC Conference
+
+#### 📊 Automated Demand Forecasting (Toyota)
+> 🔄 Built high-accuracy forecasting tools (95%+) for 70,000+ SKUs  
+> 🤝 Integrated with ERP systems & collaborated with IT teams  
+> 🧮 Supported new facility simulations for better decision-making
+
+#### 📦 Process Simulation & Optimization (UPS)
+> 🕒 Conducted time studies & standardized operations  
+> 🧮 Applied OR tools (Linear & Integer Programming, Gurobi)  
+> 📊 Visualized insights for performance improvement
+
+#### 🧪 AI for Quality Control (Experimental)
+> 👁️ Applied computer vision and transfer learning to detect defects  
+> 🤖 Trained lightweight models suitable for edge devices
 
 ---
 
-### **4. Automated Demand Forecasting (Toyota)**  
-![Toyota Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Toyota_carlogo.svg)  
-- Automated demand forecasting for **70,000+ SKUs** with **95% accuracy**.  
-- Integrated tool with Toyota’s ERP system.  
-🛠️ Python, SQL, AnyLogic  
+### 📈 Skills Snapshot
+
+| Area | Tools |
+|------|-------|
+| **ML/DL** | TensorFlow, PyTorch, Scikit-Learn, Keras, Transformers |
+| **OR & Optimization** | Gurobi, LINGO, Excel Solver |
+| **Simulation** | AnyLogic, SimPy |
+| **Data Analytics** | Python, SQL, Power BI, Tableau |
+| **CV/NLP** | OpenCV, ViTs, HuggingFace |
+| **Deployment** | Docker, Streamlit, Gradio |
+| **Collaboration** | Git, GitHub, LaTeX |
 
 ---
 
-## 🛠️ **Technical Skills**  
-### **Programming & Data Science**  
-Python (TensorFlow, PyTorch, Scikit-Learn), SQL, MATLAB, Tableau, Power BI  
+### 🧠 Research Interests
 
-### **Machine Learning & AI**  
-- **Deep Learning**: Transformers, Vision Transformers (ViTs), Siamese Networks  
-- **Reinforcement Learning**: Stable Baselines 3, Gym  
-- **NLP**: Hugging Face, BERT, Adversarial Training  
-
-### **Operations Research & Industrial Engineering**  
-Gurobi, LINDO/LINGO, AnyLogic, SimPy, Linear/Integer Programming  
+- Deep Reinforcement Learning  
+- AI for Smart Manufacturing  
+- Optimization under Uncertainty  
+- Simulation-Integrated Learning  
+- Applied Machine Learning in Industry
 
 ---
 
-## 📚 **Education**  
-| Degree | Institution | GPA |  
-|--------|------------|-----|  
-| **MS in Industrial Engineering** | University of Louisville | 4.0/4.0 |  
-| **MS in Data Science** | Jordan University of Science and Technology | 4.0/4.0 |  
-| **BS in Mechanical Engineering** | Jordan University of Science and Technology | 3.86/4.0 |  
+### 📚 Education
+
+**🎓 M.S. in Industrial Engineering** – University of Louisville (4.0 GPA)  
+**🎓 M.S. in Data Science** – Jordan University of Science and Technology (4.0 GPA)  
+**🎓 B.S. in Mechanical Engineering** – JUST (3.86 GPA)
 
 ---
 
-## 📄 **Publications**  
-1. **Radman, A. et al. (2024).** *A Deep RL Approach for Production Scheduling*. MSEC.  
-2. **Radman, A. et al. (2023).** *Neural Arabic Singular-to-Plural Conversion*. Natural Language Engineering.  
-3. **Radman, A. et al. (2022).** *Toxic Phrase Detection in Arabic Tweets*. ICICS.  
+### 💼 Previous Affiliations
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPS_Logo_Shield_2017.svg" alt="UPS" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_carlogo.svg" alt="Toyota" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Northeastern_University_seal.svg" alt="NEU" height="40"/>
+</p>
 
 ---
 
-## 💼 **Industry Experience**  
-### **Data Science Researcher**  
-![JUST Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Jordan_University_of_Science_and_Technology_Logo.svg/1200px-Jordan_University_of_Science_and_Technology_Logo.svg.png)  
-- Developed **deep learning models** for Arabic NLP and healthcare analytics.  
-- Boosted AUC from **0.730 to 0.891** in a CV task using Transformer-augmented Siamese networks.  
+### 🌱 Currently Learning
 
-### **Industrial Engineer**  
-![UPS Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/UPS_logo_2003.svg/1200px-UPS_logo_2003.svg.png)  
-- Optimized scheduling/resource allocation using **Gurobi (LP/IP)**.  
-- Conducted **time studies** to improve operational efficiency.  
+- Advanced Deep Reinforcement Learning  
+- Multi-agent Systems  
+- Research methodologies in smart manufacturing
 
 ---
 
-## 🌱 **Currently Learning**  
-- **Advanced Reinforcement Learning** (MSEC follow-up research).  
-- **Organizational Leadership** (Coursera).  
+### 🔗 Let's Connect
+
+If you're interested in collaboration, research, or just want to connect — feel free to reach out!
+
+📫 **Email**: azzamradman1993@gmail.com  
+🔗 **LinkedIn**: [azzam-radman](https://www.linkedin.com/in/azzam-radman)
 
 ---
 
-📫 **Let’s connect!** [Email](mailto:azzamradman.ie@gmail.com) | [LinkedIn](https://www.linkedin.com/in/azzam-radman)  
+<sub>PS: I’m also an industrial engineer by training, and originally a mechanical engineer — which gives me a unique systems-level lens for solving complex problems.</sub>
