@@ -82,10 +82,10 @@ I’m a data scientist with a passion for research and solving real-world proble
 ### 💼 Previous Affiliations
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e1/UPS_Logo_Shield_2017.svg" alt="UPS" height="40"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/e/e1/UPS_Logo_Shield_2017.svg](https://drive.google.com/file/d/1N6Gx-jbXuJhEn9hbZQPyBLS5IwByZyCR/view?usp=sharing)" alt="UPS" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Toyota_carlogo.svg" alt="Toyota" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Northeastern_University_seal.svg" alt="NEU" height="40"/>
+  <img src="https://logos-world.net/wp-content/uploads/2023/07/University-of-Louisville-Logo.png" alt="UofL" height="40"/>
 </p>
 
 ---
