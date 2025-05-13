@@ -36,7 +36,7 @@ I’m a data scientist with a passion for research and solving real-world proble
 ### **2. Neural Arabic Singular-to-Plural Conversion (NLP Research)**  
 - Designed a **Transformer-based model** with **Character-BERT** for Arabic morphology.  
 - Published in **Natural Language Engineering (Cambridge Press)**.  
-🔗 [Paper Link](#) | 🛠️ PyTorch, Hugging Face  
+🔗 [Paper Link](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2024/88117/1203270) | 🛠️ PyTorch, Hugging Face  
 
 ---
 
