@@ -103,4 +103,4 @@ If you're interested in collaboration, research, or just want to connect — fee
 
 ---
 
-<sub>PS: I’m also an industrial engineer by training, and originally a mechanical engineer — which gives me a unique systems-level lens for solving complex problems.</sub>
+### PS: I’m also an industrial engineer by training, and originally a mechanical engineer — which gives me a unique systems-level lens for solving complex problems.</sub>
