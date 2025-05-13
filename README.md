@@ -60,9 +60,9 @@ I’m a data scientist with a passion for research and solving real-world proble
 | **ML/DL** | TensorFlow, PyTorch, Scikit-Learn, Keras, Transformers |
 | **OR & Optimization** | Gurobi, LINGO, Excel Solver |
 | **Simulation** | AnyLogic, SimPy |
-| **Data Analytics** | Python, SQL, Power BI, Tableau |
+| **Data Analytics** | Python, SQL, Power BI, Tableau, Matplotlib, Seaborn |
 | **CV/NLP** | OpenCV, ViTs, HuggingFace |
-| **Deployment** | Docker, Streamlit, Gradio |
+| **Deployment** | Docker, FastAPI, Streamlit, Gradio |
 | **Collaboration** | Git, GitHub, LaTeX |
 
 ---
