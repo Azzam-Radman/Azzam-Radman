@@ -47,8 +47,7 @@ I’m a data scientist with a passion for research and solving real-world proble
 
 ---
 
-### **4. Automated Demand Forecasting (Toyota)**  
-![Toyota Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Toyota_carlogo.svg)  
+### **4. Automated Demand Forecasting (Toyota)**
 - Automated demand forecasting for **70,000+ SKUs** with **95% accuracy**.  
 - Integrated tool with Toyota’s ERP system.  
 🛠️ Python, SQL, AnyLogic
