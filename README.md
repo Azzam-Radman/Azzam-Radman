@@ -99,7 +99,7 @@ I’m a data scientist with a passion for research and solving real-world proble
 
 If you're interested in collaboration, research, or just want to connect — feel free to reach out!
 
-📫 **Email**: azzamradman1993@gmail.com  
+📫 **Email**: azzamradman.ie@gmail.com  
 🔗 **LinkedIn**: [azzam-radman](https://www.linkedin.com/in/azzam-radman)
 
 ---
