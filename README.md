@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:azzamradman1993@gmail.com"><img src="https://img.shields.io/badge/email-contact%20me-blue?style=flat&logo=gmail"></a>
+  <a href="mailto:azzamradman.ie@gmail.com"><img src="https://img.shields.io/badge/email-contact%20me-blue?style=flat&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/azzam-radman"><img src="https://img.shields.io/badge/LinkedIn-azzamradman-blue?style=flat&logo=linkedin"></a>
   <a href="https://github.com/Azzam-Radman"><img src="https://img.shields.io/badge/GitHub-Azzam--Radman-black?style=flat&logo=github"></a>
 </p>
