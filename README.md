@@ -26,7 +26,6 @@ I’m a data scientist with a passion for research and solving real-world proble
 ### 🚀 Featured Projects
 
 ### **1. Deep Reinforcement Learning for Production Scheduling (IBM & University of Louisville)**  
-![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)  
 - Built a **discrete event simulation** model of IBM’s 56-cell server test environment and integrated it with a **Deep RL agent**.  
 - Achieved **optimal scheduling for 400 orders in under 10 seconds**, outperforming CPLEX (14+ hours).  
 - **Published at MSEC 2024** (NSF-funded project).  
