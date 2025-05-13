@@ -29,14 +29,14 @@ I’m a data scientist with a passion for research and solving real-world proble
 - Built a **discrete event simulation** model of IBM’s 56-cell server test environment and integrated it with a **Deep RL agent**.  
 - Achieved **optimal scheduling for 400 orders in under 10 seconds**, outperforming CPLEX (14+ hours).  
 - **Published at MSEC 2024** (NSF-funded project).  
-🔗 [Paper Link](#) | 🛠️ Python, TensorFlow, Gym, SimPy  
+🔗 [Paper Link](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2024/88117/1203270) | 🛠️ Python, TensorFlow, Gym, SimPy  
 
 ---
 
 ### **2. Neural Arabic Singular-to-Plural Conversion (NLP Research)**  
 - Designed a **Transformer-based model** with **Character-BERT** for Arabic morphology.  
 - Published in **Natural Language Engineering (Cambridge Press)**.  
-🔗 [Paper Link](https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2024/88117/1203270) | 🛠️ PyTorch, Hugging Face  
+🔗 [Paper Link](#) | 🛠️ PyTorch, Hugging Face  
 
 ---
 
