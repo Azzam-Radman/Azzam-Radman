@@ -16,8 +16,8 @@
 
 I’m a data scientist with a passion for research and solving real-world problems with machine learning and optimization. I hold dual master’s degrees in **Data Science** and **Industrial Engineering**, and I work at the intersection of artificial intelligence, operations research, and simulation.
 
-- 💡 **Researcher** at the University of Louisville, working on an **NSF-funded** AI scheduling project with **IBM**, achieving 5000x speedups over classical methods.
-- 🚛 Former Industrial Engineering Intern at **Toyota** and **UPS**, where I automated forecasting, built simulation models in AnyLogic, and improved logistics processes.
+- 💡 **Researcher** at the University of Louisville, worked on an **NSF-funded** AI scheduling project with **IBM**, achieving 5000x speedups over classical methods.
+- 🏭 **Industry Experience**: Toyota, IBM, UPS.
 - 🔍 I'm interested in **Deep Reinforcement Learning**, **Computer Vision**, **Transformers**, and **AI for Smart Manufacturing**.
 - 📍 Currently based in **Louisville, KY, USA**.
 
@@ -25,26 +25,34 @@ I’m a data scientist with a passion for research and solving real-world proble
 
 ### 🚀 Featured Projects
 
-#### 📌 Deep RL for Server Testing Optimization (IBM Project)
-> 🏢 NSF-funded collaboration with IBM and Northeastern University  
-> 🧠 Used Deep Reinforcement Learning for dynamic scheduling  
-> ⚙️ Outperformed CPLEX-based models (14 hours) in just 10 seconds  
-> 🎓 Published in the 2024 MSEC Conference
+### **1. Deep Reinforcement Learning for Production Scheduling (IBM & University of Louisville)**  
+![IBM Logo](https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg)  
+- Built a **discrete event simulation** model of IBM’s 56-cell server test environment and integrated it with a **Deep RL agent**.  
+- Achieved **optimal scheduling for 400 orders in under 10 seconds**, outperforming CPLEX (14+ hours).  
+- **Published at MSEC 2024** (NSF-funded project).  
+🔗 [Paper Link](#) | 🛠️ Python, TensorFlow, Gym, SimPy  
 
-#### 📊 Automated Demand Forecasting (Toyota)
-> 🔄 Built high-accuracy forecasting tools (95%+) for 70,000+ SKUs  
-> 🤝 Integrated with ERP systems & collaborated with IT teams  
-> 🧮 Supported new facility simulations for better decision-making
+---
 
-#### 📦 Process Simulation & Optimization (UPS)
-> 🕒 Conducted time studies & standardized operations  
-> 🧮 Applied OR tools (Linear & Integer Programming, Gurobi)  
-> 📊 Visualized insights for performance improvement
+### **2. Neural Arabic Singular-to-Plural Conversion (NLP Research)**  
+- Designed a **Transformer-based model** with **Character-BERT** for Arabic morphology.  
+- Published in **Natural Language Engineering (Cambridge Press)**.  
+🔗 [Paper Link](#) | 🛠️ PyTorch, Hugging Face  
 
-#### 🧪 AI for Quality Control (Experimental)
-> 👁️ Applied computer vision and transfer learning to detect defects  
-> 🤖 Trained lightweight models suitable for edge devices
+---
 
+### **3. Toxic Phrase Detection in Arabic Tweets (ICICS 2022)**  
+- Developed a **span detection model** for identifying toxic content in social media.  
+- Applied adversarial training to improve robustness.  
+🔗 [Paper Link](#) | 🛠️ TensorFlow, NLP  
+
+---
+
+### **4. Automated Demand Forecasting (Toyota)**  
+![Toyota Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/Toyota_carlogo.svg)  
+- Automated demand forecasting for **70,000+ SKUs** with **95% accuracy**.  
+- Integrated tool with Toyota’s ERP system.  
+🛠️ Python, SQL, AnyLogic
 ---
 
 ### 📈 Skills Snapshot
@@ -73,25 +81,18 @@ I’m a data scientist with a passion for research and solving real-world proble
 
 ### 📚 Education
 
-**🎓 M.S. in Industrial Engineering** – University of Louisville (4.0 GPA)  
-**🎓 M.S. in Data Science** – Jordan University of Science and Technology (4.0 GPA)  
-**🎓 B.S. in Mechanical Engineering** – JUST (3.86 GPA)
+| Degree | Institution | GPA |  
+|--------|------------|-----|  
+| **MS in Industrial Engineering** | University of Louisville | 4.0/4.0 |  
+| **MS in Data Science** | Jordan University of Science and Technology | 4.0/4.0 |  
+| **BS in Mechanical Engineering** | Jordan University of Science and Technology | 3.86/4.0 |
 
 ---
 
-### 💼 Previous Affiliations
-
-<p align="center">
-  <img src="https://github.com/Azzam-Radman/Azzam-Radman/blob/main/assets/logos.png" alt="aff" height="80"/>
-</p>
-
----
-
-### 🌱 Currently Learning
-
-- Advanced Deep Reinforcement Learning  
-- Multi-agent Systems  
-- Research methodologies in smart manufacturing
+### 📄 **Publications**
+1. **Radman, A. et al. (2024).** *A Deep RL Approach for Production Scheduling*. MSEC.  
+2. **Radman, A. et al. (2023).** *Neural Arabic Singular-to-Plural Conversion*. Natural Language Engineering.  
+3. **Radman, A. et al. (2022).** *Toxic Phrase Detection in Arabic Tweets*. ICICS.
 
 ---
 
