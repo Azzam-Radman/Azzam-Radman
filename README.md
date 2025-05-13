@@ -33,17 +33,17 @@ I’m a data scientist with a passion for research and solving real-world proble
 
 ---
 
-### **2. Neural Arabic Singular-to-Plural Conversion (NLP Research)**  
-- Designed a **Transformer-based model** with **Character-BERT** for Arabic morphology.  
+### **2. Towards a Robust Deep Learning Framework for Arabic Sentiment Analysis (NLP Research)**  
+- Designed a **weight perturbation-based adversarial training framework** for Arabic sentiment analysis.  
 - Published in **Natural Language Engineering (Cambridge Press)**.  
-🔗 [Paper Link](#) | 🛠️ PyTorch, Hugging Face  
+🔗 [Paper Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QUGRpw4AAAAJ&citation_for_view=QUGRpw4AAAAJ:2osOgNQ5qMEC) | 🛠️ PyTorch, Hugging Face  
 
 ---
 
 ### **3. Toxic Phrase Detection in Arabic Tweets (ICICS 2022)**  
 - Developed a **span detection model** for identifying toxic content in social media.  
 - Applied adversarial training to improve robustness.  
-🔗 [Paper Link](#) | 🛠️ TensorFlow, NLP  
+🔗 [Paper Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=QUGRpw4AAAAJ&citation_for_view=QUGRpw4AAAAJ:u5HHmVD_uO8C) | 🛠️ TensorFlow, NLP  
 
 ---
 
