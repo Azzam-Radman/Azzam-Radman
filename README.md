@@ -16,7 +16,7 @@
 
 I’m a data scientist with a passion for research and solving real-world problems with machine learning and optimization. I hold dual master’s degrees in **Data Science** and **Industrial Engineering**, and I work at the intersection of artificial intelligence, operations research, and simulation.
 
-- 💡 **Researcher** at the University of Louisville, worked on an **NSF-funded** AI scheduling project with **IBM**, achieving 5000x speedups over classical methods.
+- 💡 **Researcher Experience** University of Louisville and Jordan University of Science and Technology. Worked on multiple projects in **NLP, Deep Learning, Deep Reinforcement Learning, Dynamic Scheduling, Computer Vision, and Data Analytics**.
 - 🏭 **Industry Experience**: Toyota, IBM, UPS.
 - 🔍 I'm interested in **Deep Reinforcement Learning**, **Computer Vision**, **Transformers**, and **AI for Smart Manufacturing**.
 - 📍 Currently based in **Louisville, KY, USA**.
