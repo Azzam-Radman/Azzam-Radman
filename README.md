@@ -82,7 +82,7 @@ I’m a data scientist with a passion for research and solving real-world proble
 ### 💼 Previous Affiliations
 
 <p align="center">
-  <img src="https://github.com/Azzam-Radman/Azzam-Radman/blob/main/assets/logos.png" alt="aff" height="40"/>
+  <img src="https://github.com/Azzam-Radman/Azzam-Radman/blob/main/assets/logos.png" alt="aff" height="80"/>
 </p>
 
 ---
